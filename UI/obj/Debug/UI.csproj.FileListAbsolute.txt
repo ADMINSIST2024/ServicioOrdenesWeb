@@ -1,0 +1,28 @@
+D:\API\ServicioOrdenesWeb\UI\bin\Debug\UI.exe.config
+D:\API\ServicioOrdenesWeb\UI\bin\Debug\UI.exe
+D:\API\ServicioOrdenesWeb\UI\bin\Debug\UI.pdb
+D:\API\ServicioOrdenesWeb\UI\bin\Debug\DA.dll
+D:\API\ServicioOrdenesWeb\UI\bin\Debug\DA.pdb
+D:\API\ServicioOrdenesWeb\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\API\ServicioOrdenesWeb\UI\obj\Debug\UI.Ordenes.resources
+D:\API\ServicioOrdenesWeb\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\API\ServicioOrdenesWeb\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\API\ServicioOrdenesWeb\UI\obj\Debug\UI.csproj.Up2Date
+D:\API\ServicioOrdenesWeb\UI\obj\Debug\UI.exe
+D:\API\ServicioOrdenesWeb\UI\obj\Debug\UI.pdb
+D:\API\ServicioOrdenesWeb\UI\bin\Debug\IBM.Data.DB2.iSeries.dll
+D:\API\ServicioOrdenesWeb\UI\obj\Debug\UI.ProjectInstaller.resources
+D:\FUENTES ULTIMAS\ServicioOrdenesWeb\UI\bin\Debug\UI.exe.config
+D:\FUENTES ULTIMAS\ServicioOrdenesWeb\UI\bin\Debug\UI.exe
+D:\FUENTES ULTIMAS\ServicioOrdenesWeb\UI\bin\Debug\UI.pdb
+D:\FUENTES ULTIMAS\ServicioOrdenesWeb\UI\bin\Debug\DA.dll
+D:\FUENTES ULTIMAS\ServicioOrdenesWeb\UI\bin\Debug\IBM.Data.DB2.iSeries.dll
+D:\FUENTES ULTIMAS\ServicioOrdenesWeb\UI\bin\Debug\DA.pdb
+D:\FUENTES ULTIMAS\ServicioOrdenesWeb\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\FUENTES ULTIMAS\ServicioOrdenesWeb\UI\obj\Debug\UI.Ordenes.resources
+D:\FUENTES ULTIMAS\ServicioOrdenesWeb\UI\obj\Debug\UI.ProjectInstaller.resources
+D:\FUENTES ULTIMAS\ServicioOrdenesWeb\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\FUENTES ULTIMAS\ServicioOrdenesWeb\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\FUENTES ULTIMAS\ServicioOrdenesWeb\UI\obj\Debug\UI.csproj.Up2Date
+D:\FUENTES ULTIMAS\ServicioOrdenesWeb\UI\obj\Debug\UI.exe
+D:\FUENTES ULTIMAS\ServicioOrdenesWeb\UI\obj\Debug\UI.pdb

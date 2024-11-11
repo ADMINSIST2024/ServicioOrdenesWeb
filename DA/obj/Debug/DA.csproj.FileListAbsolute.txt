@@ -1,0 +1,8 @@
+D:\API\ServicioOrdenesWeb\DA\bin\Debug\DA.dll
+D:\API\ServicioOrdenesWeb\DA\bin\Debug\DA.pdb
+D:\API\ServicioOrdenesWeb\DA\obj\Debug\DA.csproj.AssemblyReference.cache
+D:\API\ServicioOrdenesWeb\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+D:\API\ServicioOrdenesWeb\DA\obj\Debug\DA.dll
+D:\API\ServicioOrdenesWeb\DA\obj\Debug\DA.pdb
+D:\API\ServicioOrdenesWeb\DA\bin\Debug\IBM.Data.DB2.iSeries.dll
+D:\API\ServicioOrdenesWeb\DA\obj\Debug\DA.csproj.Up2Date

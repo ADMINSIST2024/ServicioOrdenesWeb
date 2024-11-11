@@ -1,0 +1,13 @@
+﻿Instalando ensamblado 'D:\API\ServicioOrdenesWeb\UI\bin\Debug\UI.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\API\ServicioOrdenesWeb\UI\bin\Debug\UI.InstallLog
+   assemblypath = D:\API\ServicioOrdenesWeb\UI\bin\Debug\UI.exe
+Instalando el servicio ServicioOrdenWeb...
+El servicio ServicioOrdenWeb se ha instalado correctamente.
+Creando el origen de EventLog ServicioOrdenWeb en el registro Application...
+Confirmando ensamblado 'D:\API\ServicioOrdenesWeb\UI\bin\Debug\UI.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\API\ServicioOrdenesWeb\UI\bin\Debug\UI.InstallLog
+   assemblypath = D:\API\ServicioOrdenesWeb\UI\bin\Debug\UI.exe
